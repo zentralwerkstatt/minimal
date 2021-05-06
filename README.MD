@@ -1,1 +1,2 @@
 - [Function Approximation with Neural Networks](function_approximation.ipynb)
+- [Feature Visualization](feature_visualization.ipynb)
